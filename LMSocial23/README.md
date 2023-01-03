@@ -1,7 +1,3 @@
----
-title: From Language Models to Social Structures
----
-
 # NLP for Social Science: From Language Models to Social Structures
  
 In recent years, deep neural language models of varying size and scope have impressed scientists and laypeople alike with their ability to model and generate natural language. While the social sciences have previously been quick to pick up computational text analysis tools, the adaptation of increasingly complex neural language modeling to applied research has been more hesitant. Many seem to wonder exactly how to leverage the strength of these models in the context of social inquiry, and about the reliability of the computational narratives they produce.
