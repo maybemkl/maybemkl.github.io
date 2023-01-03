@@ -11,7 +11,7 @@ For this first instantiation of the “NLP for Social Science” workshop organi
 | 2/2/2023  | Allison Parrish                  | ???   | NYU                  | Columbia |
 | 2/16/2023 | Andrew Piper                     | ???   | McGill               | McGill   |
 | 3/2/2023  | Lucy Li                          | ???   | Berkeley             | Columbia |
-| 3/16/2023 | Sandeep Soni?                    | ???   | Berkeley             | McGill   |
+| 3/16/2023 | ??                    | ???   | Berkeley             | McGill   |
 | 3/23/2023 | Amir Goldberg                    | ???   | Stanford             | Columbia |
 | 4/13/2023 | Mikael Brunila & Jack LaViolette | ???   | Columbia / McGill    | McGill   |
 | 4/27/2023 | Lauren Klein                     | ???   | Georgia Tech / Emory | Columbia |
