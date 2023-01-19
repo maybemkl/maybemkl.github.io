@@ -15,7 +15,7 @@ For this first instantiation of the “NLP for Social Science” workshop organi
 | 3/23/2023 | [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg) (Stanford)                       | A deep-learning model of prescient ideas demonstrates that they emerge from the periphery | Columbia    | Knox Hall 509     |
 | 4/13/2023 | [M. Brunila](https://maybemkl.github.io/) (McGill) & [J. LaViolette](https://incite.columbia.edu/jack-laviolette) (Columbia) | Gentrification through Toponymy: A Case Study of Airbnb in New York City                  | McGill      | Burnside Hall 512 |
 | 4/27/2023 | [Lauren Klein](https://lklein.com/) (Georgia Tech)                    | TBD                                                                                       | Columbia    | Knox Hall 509     |
-| 5/11/2023 | [Di Zhou](https://di-zhou.github.io//) (NYU)                                  | The Elements of Cultural Power: Novelty, Emotion, Status, and Cultural Capital            | Columbia    | Knox Hall 509     |
+| 5/11/2023 | [Di Zhou](https://di-zhou.github.io/) (NYU)                                  | The Elements of Cultural Power: Novelty, Emotion, Status, and Cultural Capital            | Columbia    | Knox Hall 509     |
 
 ## Venues & Organizers 
 
