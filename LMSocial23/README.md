@@ -27,6 +27,6 @@ The sessions at McGill will happen in room 512 at [Burnside Hall, 805 Sherbrooke
 
 Practical arrangements for the workshop are by [Mikael Brunila](https://maybemkl.github.io/) (McGill) & [Jack LaViolette](https://incite.columbia.edu/jack-laviolette) (Columbia). For more information, contact one of us:
 
-mikael.brunila@gmail.com
-jack.laviolette@columbia.edu 
+- mikael.brunila@gmail.com
+- jack.laviolette@columbia.edu 
 
