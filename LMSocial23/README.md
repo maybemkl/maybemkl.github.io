@@ -24,3 +24,9 @@ The event is organized in cooperation between [INCITE Columbia](https://incite.c
 The Columbia sessions will happen in room 509 at [Knox Hall, West 122nd Street, NYC](https://www.google.com/maps/place/Knox+Hall/@40.8119187,-73.963977,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2f64065391e0f:0xd8b97a7ea2f5bf1!8m2!3d40.8119746!4d-73.9617473).
 
 The sessions at McGill will happen in room 512 at [Burnside Hall, 805 Sherbrooke Street West, Montreal](https://www.google.com/maps/place/Burnside+Hall/@45.5046107,-73.5770977,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a47aeafb055:0xaf6425f171b21f2c!8m2!3d45.5045891!4d-73.5748647). 
+
+Practical arrangements for the workshop are by [Mikael Brunila](https://maybemkl.github.io/) (McGill) & [Jack LaViolette](https://incite.columbia.edu/jack-laviolette) (Columbia). For more information, contact one of us:
+
+mikael.brunila@gmail.com
+jack.laviolette@columbia.edu 
+
