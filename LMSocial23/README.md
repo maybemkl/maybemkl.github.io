@@ -6,7 +6,7 @@ For this first instantiation of the “NLP for Social Science” workshop organi
 
 ## Schedule
 
-All sessions start at 4PM EST. Participation is possible in person or online [through Eventbrite](https://www.eventbrite.com/cc/nlp-for-social-science-1644599). 
+All sessions start at 4PM EST. Please register on [Eventbrite here](https://www.eventbrite.com/cc/nlp-for-social-science-1644599) if you are interested in attending, whether online or in person. The Eventbrite description will appear as "online," but all events are hybrid. In-person locations are listed in the Eventbrite description as well as the schedule below.
 
 | Date      | Speaker                                        | Title                                                                                     | Institution | Location          |
 | --------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------- | ----------------- |
