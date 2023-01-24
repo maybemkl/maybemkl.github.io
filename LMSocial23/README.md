@@ -6,6 +6,8 @@ For this first instantiation of the “NLP for Social Science” workshop organi
 
 ## Schedule
 
+All sessions start at 4PM EST. Participation is possible in person or online [through Eventbrite](https://www.eventbrite.com/cc/nlp-for-social-science-1644599). 
+
 | Date      | Speaker                                        | Title                                                                                     | Institution | Location          |
 | --------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------- | ----------------- |
 | 2/2/2023  | [Allison Parrish](https://www.decontextualize.com/) (NYU)                          | Nothing survives transcription, nothing doesn't survive transcription                     | Columbia    | Knox Hall 509     |
