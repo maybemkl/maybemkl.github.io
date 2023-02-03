@@ -16,7 +16,7 @@ All sessions start at 4PM EST. Please register on [Eventbrite here](https://www.
 | 3/9/2023  | [Julia Mendelsohn](https://juliamendelsohn.github.io/) (U Michigan)                  | TBD                                                                                       | McGill      | Burnside Hall 512 |
 | 3/23/2023 | [Amir Goldberg](https://www.gsb.stanford.edu/faculty-research/faculty/amir-goldberg) (Stanford)                       | A deep-learning model of prescient ideas demonstrates that they emerge from the periphery | Columbia    | Knox Hall 509     |
 | 4/13/2023 | [M. Brunila](https://maybemkl.github.io/) (McGill) & [J. LaViolette](https://incite.columbia.edu/jack-laviolette) (Columbia) | Gentrification through Toponymy: A Case Study of Airbnb in New York City                  | McGill      | Burnside Hall 512 |
-| 4/27/2023 | [Lauren Klein](https://lklein.com/) (Emory)                    | TBD                                                                                       | Columbia    | Knox Hall 509     |
+| 4/27/2023 | [Lauren Klein](https://lklein.com/) (Emory)                    | How Words Lead to Justice: Modeling Language Change in Two Abolitionist Movements                                                                                        | Columbia    | Knox Hall 509     |
 | 5/11/2023 | [Di Zhou](https://di-zhou.github.io/) (NYU)                                  | The Elements of Cultural Power: Novelty, Emotion, Status, and Cultural Capital            | Columbia    | Knox Hall 509     |
 
 ## Venues & Organizers 
